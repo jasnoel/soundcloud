@@ -1,0 +1,6 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap';
+
+:root, body {
+    font-family: "SoundCloud Sans",system-ui,-apple-system,"Segoe UI",Roboto,"Lucida Grande",sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+
+}

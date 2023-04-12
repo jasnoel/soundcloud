@@ -1,8 +1,9 @@
 <script lang="ts">
     import "../app.css";
+    import MobileNav from './MobileNav.svelte';
     import Nav from './Nav.svelte';
 </script>
 
-<h1>Hey there</h1>
-<slot></slot>
 <Nav />
+<slot></slot>
+<MobileNav />

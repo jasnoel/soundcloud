@@ -3,7 +3,7 @@
 </script>
 
 <li>
-    <a {href} class="flex flex-wrap justify-center">
+    <a {href} class="flex flex-col items-center">
         <slot />
     </a>
 </li>
